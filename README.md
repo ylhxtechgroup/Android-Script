@@ -1,1 +1,2 @@
-# Android-Script 此App用于写剧本
+# Android-Script 
+此App用于写剧本
